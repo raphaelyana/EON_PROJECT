@@ -1,0 +1,4 @@
+#{"t_start": 1669198565.2782245, "env_id": "DeepRMSA-v0"}
+r,l,t,episode_service_blocking_rate,bit_rate_blocking_rate
+49,49,1.272721,0.0,0.0
+49,49,2.362112,0.0,0.0
