@@ -1,2 +1,0 @@
-#{"t_start": 1677599740.11795, "env_id": "DeepRMSADPP-v0"}
-r,l,t,episode_service_blocking_rate,bit_rate_blocking_rate,failure,episode_failure,failure_slots,episode_failure_slots,failure_disjointness,episode_failure_disjointness,length_comparison,length_wp,length_bp,hops_wp,hops_bp,number_slots_wp,number_slots_bp,initial_slots_wp,initial_slots_bp,average_external_fragmentation_wp,average_external_fragmentation_bp
