@@ -3,7 +3,7 @@
 ## Language
 
 1. <a href="#english">English</a>
-2. <a href="french">Français</a>
+2. <a href="#french">Français</a>
 
 
 <a href="#english"><h2>Original Message from Carlos Natalino, creator of the Optical RL Gym toolkit</h2></a>
