@@ -242,7 +242,7 @@ Voici une liste des personnes ayant contribuées à ce projet ou initiallement a
 
 Ce projet est basé sur le recueil de fichier créé par Carlos Natalino [[Twitter](https://twitter.com/NatalinoCarlos)],qui peut être contacté à carlos.natalino@chalmers.se.
 
-Il fut modifié par Raphaël Yana, étudiant à la University College London (UCL, Londres) dans le c 3rd Year Project.
+Il fut modifié par Raphaël Yana, étudiant à la University College London (UCL, Londres) dans le cadre d'un projet de 3ème année.
 
 
 
