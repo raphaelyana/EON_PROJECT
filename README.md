@@ -1,5 +1,7 @@
 # Optical RL-Gym
 
+<h2>Original Message from Carlos Natalino, creator of the Optical RL Gym toolkit</h2></a>
+
 [OpenAI Gym](https://gym.openai.com/) is the de-facto interface for reinforcement learning environments.
 Optical RL-Gym builds on top of OpenAI Gym's interfaces to create a set of environments that model optical network problems such as resource management and reconfiguration.
 Optical RL-Gym can be used to quickly start experimenting with reinforcement learning in optical network problems.
@@ -63,9 +65,18 @@ You can see the dependencies in the [setup.py](setup.py) file.
 
 At this moment, the following environments are ready for use:
 
-1. RWAEnv
-2. RMSAEnv
-3. DeepRMSA
+1. Optical Network
+2. RWAEnv
+3. RMSAEnv
+4. DeepRMSAEnv
+5. RMSADPPEnv
+6. RMSASBPPEnv
+7. DeepRMSADPPEnv
+8. DeepRMSASBPPEnv
+9. DeepRMSADPPKSPEnv
+10. DeepRMSASBPPKSPEnv
+11. RMCSAEnv
+12. QoSConstrainedRA
 
 More environments will be added in the near future.
 
@@ -102,6 +113,13 @@ Here is a list of people who have contributed to this project:
 - Igor M. de Araújo [[GitHub](https://github.com/igormaraujo/)]
 - Paolo Monti [[Personal page](https://www.chalmers.se/en/staff/Pages/Paolo-Monti.aspx)]
 
+- Youssef Alaoui Mrani (University College London, 3rd Year Project, 2020)
+- Ella Gupta (University College London, 3rd Year Project, 2021)
+
 <a href="#contact"><h2>Contact</h2></a>
 
-This project is maintained by Carlos Natalino [[Twitter](https://twitter.com/NatalinoCarlos)], who can be contacted through carlos.natalino@chalmers.se.
+This project is based on the toolkit initially created by Carlos Natalino [[Twitter](https://twitter.com/NatalinoCarlos)], who can be contacted through carlos.natalino@chalmers.se.
+
+It was modified by Raphaël Yana from University College London for the purpose of a 3rd Year Project.
+
+
