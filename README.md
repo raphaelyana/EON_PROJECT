@@ -16,7 +16,7 @@ Optical RL-Gym builds on top of OpenAI Gym's interfaces to create a set of envir
 Optical RL-Gym can be used to quickly start experimenting with reinforcement learning in optical network problems.
 Later, you can use the pre-defined environments to create more specific environments for your particular use case.
 
-<a href="#bib">Please use the following bibtex:</a>
+<a href="#bib">Here is the bibtex of the original Optical RL Gym toolkit:</a>
 
 ```
 @inproceedings{optical-rl-gym,
@@ -43,24 +43,13 @@ Across all the environments, the following features are available:
 
 ## Content of this document
 
-1. <a href="#installation">Installation</a>
-2. <a href="#environments">Environments</a>
-3. <a href="#examples">Examples</a>
-4. <a href="#resources">Resources</a>
-5. <a href="#contributors">Contributors</a>
-6. <a href="#contact">Contact</a>
 
-<a href="#installation"><h2>Installation</h2></a>
+1. <a href="#environments">Environments</a>
+2. <a href="#examples">Examples</a>
+3. <a href="#resources">Resources</a>
+4. <a href="#contributors">Contributors</a>
+5. <a href="#contact">Contact</a>
 
-You can install the Optical RL-Gym with:
-
-```bash
-git clone https://github.com/carlosnatalino/optical-rl-gym.git
-cd optical-rl-gym
-pip install -e .
-``` 
-
-You will be able to run the [examples](#examples) right away.
 
 You can see the dependencies in the [setup.py](setup.py) file.
 
@@ -119,9 +108,6 @@ We provide a set of [examples](./examples).
 
 Here is a list of people who have contributed to this project:
 
-- Igor M. de Araújo [[GitHub](https://github.com/igormaraujo/)]
-- Paolo Monti [[Personal page](https://www.chalmers.se/en/staff/Pages/Paolo-Monti.aspx)]
-
 - Youssef Alaoui Mrani (University College London, 3rd Year Project, 2020)
 - Ella Gupta (University College London, 3rd Year Project, 2021)
 
@@ -130,7 +116,6 @@ Here is a list of people who have contributed to this project:
 This project is based on the toolkit initially created by Carlos Natalino [[Twitter](https://twitter.com/NatalinoCarlos)], who can be contacted through carlos.natalino@chalmers.se.
 
 It was modified by Raphaël Yana from University College London for the purpose of a 3rd Year Project.
-
 
 
 
@@ -203,7 +188,6 @@ A cet instant présent, les environnements suivants sont prêts à être utilis�
 11. RMCSAEnv
 12. QoSConstrainedRA
 
-Plus d'environnements peuvent être créés dans le futur.
 
 <a href="#examplesf"><h2>Exemples</h2></a>
 
@@ -223,7 +207,6 @@ agent = PPO2(MlpPolicy, env)
 agent.learn(total_timesteps=10000)
 ```
 
-Nous fournissons un ensemble d'[exemples](./examples).
 
 <a href="#resourcesf"><h2>Ressources</h2></a>
 
@@ -233,10 +216,7 @@ Nous fournissons un ensemble d'[exemples](./examples).
 
 <a href="#contributorsf"><h2>Contributions</h2></a>
 
-Voici une liste des personnes ayant contribuées à ce projet ou initiallement au recueil de fichier Optical RL-Gym:
-
-- Igor M. de Araújo [[GitHub](https://github.com/igormaraujo/)]
-- Paolo Monti [[Personal page](https://www.chalmers.se/en/staff/Pages/Paolo-Monti.aspx)]
+Voici une liste des personnes ayant contribuées à ce projet:
 
 - Youssef Alaoui Mrani (University College London, Projet de 3ème Année, 2020)
 - Ella Gupta (University College London, Projet de 3ème Année, 2021)
