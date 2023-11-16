@@ -1,4 +1,7 @@
 # Optical RL-Gym
+## What this repository contains
+
+This repository contains the code I have been working on during my 3rd Year Project at UCL on Deep Reinforcement Learning in Optical Networks. 
 
 ## Language
 
